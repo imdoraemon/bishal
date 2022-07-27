@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: black;
+    height: 17vh;
+    width: 100%;
+    position: fixed;
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+iframe{
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.footer{
+    position: fixed;
+    bottom: 0.0000001%;
+    background-color: dodgerblue;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
